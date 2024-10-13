@@ -1,0 +1,17 @@
+body{
+    font-family:"Azeret Mono";
+}
+#banner{
+    background-image: url("/assets/Hero-bg.png");
+    text-align: center;
+
+}
+#Group{
+    
+    margin-left: 250px;
+}
+#cards{
+    margin-top: 5px;
+    display: flex;
+    
+}
